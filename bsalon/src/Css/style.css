@@ -1,0 +1,14 @@
+
+.header {
+   background-color: #985F99;
+   color: white;
+    /* opacity: 0.9; */
+    box-shadow: 1px 5px 5px rgb(134, 132, 136);
+    overflow: hidden;
+    padding: 20px 10px;
+}
+
+.header a {
+    color: white;
+    font-size: 40px;
+}
